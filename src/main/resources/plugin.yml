@@ -1,4 +1,4 @@
 name: ChestSorter
 version: '1.0'
-main: org.ch4rlesexe.untitled1.ChestSorterPlugin
-api-version: '1.20'
+main: org.ch4rlesexe.chestSorterPlugin.ChestSorterPlugin
+api-version: '1.20.1'
